@@ -62,18 +62,18 @@ To setup this projct on a local machine:
 * Fork this repository.
 * Clone the repository using simple zip download or use the command
     ```
-        git clone https://github.com/{Your-Username}/Movie-Recommendation-System
+        git clone https://github.com/{Your-Username}/Ecommerce-Application.git
     ```
 * Create a virtual environment for the project
     ```
         pip install virtualenv
-        for windows: virtualenv -p /usr/bin/python3 env_name
-        for linux(ubuntu): virtualenv env_name
+        virtualenv env_name
         
     ```
 * Activate the Virtual environment
     ```
        source env_name/bin/activate
+    
     ```
     Once the virtual environment is activated, the name of your virtual environment will appear on left side of terminal. This will let you know that the virtual environment is currently active. 
 
