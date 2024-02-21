@@ -1,6 +1,6 @@
-# DRF Ecommerce
+# Ecommerce Application
  
-DRF E-commerce is a fully functional *Clothing Ecommerce* Platform made using Django and React.
+E-commerce is a fully functional *Clothing Ecommerce* Platform made using Django and React.
 
 
 ## Characteristic Features
